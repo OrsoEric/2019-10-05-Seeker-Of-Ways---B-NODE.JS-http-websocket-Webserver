@@ -4,3 +4,5 @@ Seeker Of Ways - B NODE.JS http websocket Webserver. Host webpage to control SoW
 launch the webserver on board of the raspberry Pi   
 sudo node .../demo.js   
 webpage can be accessed from 192.168.1.203:8080  
+# Documentation
+[SoW-B Remote Control Demo](https://fatherofmachines.blogspot.com/p/sow-b-remote-control.html)
